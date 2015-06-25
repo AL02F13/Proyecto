@@ -5,14 +5,14 @@
      id    = "com.phonegap.Esqueleto"  
      version  = "1.0.0">  
 	 
-   <name> Nombre </name>  
+   <name> Proyecto </name>  
    
    <description>  
-     Primer Ejemplo de eventos
+     Aplicacion movil de 5 temas mios
    </description>  
    
    <author href="https://build.phonegap.com" email="micorreo@gmail.com">  
-       Nombre
+       Damaris Aniceto Marin
    </author>  
    
    <!-- Personaliza la aplicacion y plataforma  -->  
